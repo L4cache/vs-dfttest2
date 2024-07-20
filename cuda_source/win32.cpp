@@ -6,7 +6,7 @@
 #include <stdexcept>
 #include <filesystem>
 
-#define DLL_DIR L"vsmlrt-cuda"
+#define DLL_DIR L"dfttest2-cuda"
 
 #include <iostream>
 
